@@ -35,5 +35,6 @@ This project involves creating an interactive web-based dashboard to explore dat
 5. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
 6. Deploy your app to a free static page hosting service, such as GitHub Pages.
+The Deployment link is : https://hetal24.github.io/belly-button-challenge/
 
 
